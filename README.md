@@ -2,6 +2,8 @@
 
 This is python-based project to analyse and essentially to answer business questions of an online grocery store that operates through an app. Instacart is a real company that’s made their data available online. However, the contents of the project brief as well as the data have been fabricated for the purpose of this project.
 
+Article of this project can be found in my page [nuki-susanti.github.io](https://nuki-susanti.github.io/data%20analysis/exploratory%20data%20analysis/2022/12/18/instacart-online-grocery-analysis.html)
+
 # Objective
 ![Instacart logo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Instacart_logo_and_wordmark.svg)
 
